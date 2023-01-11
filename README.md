@@ -8,7 +8,7 @@
 
 
 ## 💻 Tech Experiences
-- PHP/Javascript/Laravel
+- React
 - Dart/Flutter
 - Storybook
 - Documentation

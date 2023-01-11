@@ -1,4 +1,4 @@
-👋 Hello. My full name is Muhammad Diki Darmawan, and you can call me “Diki”. I’m a software engineer final year information system student, with some ability to code in full-stack and mobile development. Very passionate about modern mobile and web technology while considering the latest trends and techniques.
+👋 Hello. My full name is Alfandi Restu Alamsyah, and you can call me “Al”. I’m a software engineer final year information system student, with some ability to code in mobile development. Very passionate about modern mobile technology while considering the latest trends and techniques.
 
 
 ![Diki github stats](https://github-readme-stats.vercel.app/api?username=alfandir&show_icons=true&theme=dracula&hide=stars,issues)
@@ -18,10 +18,8 @@
 ## 🔍  Currently Learning :
 - UI / UX Guideline & Documentation for Frontend Implementation
 - Software Design Pattern
-- Cloud Computing
-- Cyber Security
-- Cryptocurrency & Blockchain
 - Writing & Public Speaking
+- React JS
 
 ## 🚀 How to reach me :
 - Email : [alfandisullivan@gmail.com](mailto:alfandisullivan@gmail.com)

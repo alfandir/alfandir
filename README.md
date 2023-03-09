@@ -20,6 +20,7 @@
 - Software Design Pattern
 - Writing & Public Speaking
 - React JS
+- Flutter
 
 ## 🚀 How to reach me :
 - Email : [alfandisullivan@gmail.com](mailto:alfandisullivan@gmail.com)

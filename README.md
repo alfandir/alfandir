@@ -21,6 +21,8 @@
 - Writing & Public Speaking
 - React JS
 - Flutter
+- Laravel
+- Codeigniter
 
 ## 🚀 How to reach me :
 - Email : [alfandisullivan@gmail.com](mailto:alfandisullivan@gmail.com)
